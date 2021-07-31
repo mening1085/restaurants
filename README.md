@@ -9,13 +9,12 @@
 
 ## How to use
 - Run: composer install
+- Run: php artisan key:generate
 - Set .env connecct to database
 - Run : php artisan migrate
 - Run : php artisan serve
 - Set google map api key to file app.js in folder resources/js
 - Run : npm run dev (or npm run watch)
-
-
 - import file sql in folder databese to database serve
 
 
